@@ -39,12 +39,12 @@
 
 /*Ниже описывается блок с адресом*/
 
-.header__menu-right{
+.header__address{
     padding-left: 195px;
     line-height: 25px;
 }
 
-.header__link-right {
+.header__address-link {
     text-decoration: underline;
     text-underline-offset: 5px;
 }
@@ -52,10 +52,6 @@
 .address {
     font-style: normal;
     text-decoration: none;
-}
-
-.header__address {
-    display: block;
 }
 
 /*Ниже описывается блок сover*/
@@ -306,3 +302,5 @@
 .letter-spacing {
     letter-spacing: 1px;
 }
+
+/*Ниже описывается блок about*/
