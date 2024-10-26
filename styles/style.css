@@ -38,7 +38,7 @@
 
 /*Ниже описывается блок с адресом*/
 
-.header__address{
+.header__address {
     padding-left: 195px;
     line-height: 25px;
 }
@@ -98,7 +98,7 @@
 
 .aligned-text_right {
     display: block;
-    padding-top: 3px; 
+    padding-top: 3px;
     padding-left: 633px;
 }
 
@@ -252,7 +252,7 @@
 
 }
 
-.about__column-left{
+.about__column-left {
     display: flex;
     justify-content: center;
 }
@@ -278,7 +278,7 @@
 
 /*Ниже описывается правая секцияя блока about*/
 
-.about__text-box{
+.about__text-box {
     display: flex;
     flex-direction: column;
     gap: 24px;
