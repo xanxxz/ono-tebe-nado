@@ -81,24 +81,20 @@
     text-transform: uppercase;
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 163px;
 }
 
 .aligned-text {
     display: block;
-    padding-top: 163px;
-    text-align: left;
-
 }
 
 .aligned-text_center {
     display: block;
-    padding-top: 9px;
     text-align: center;
 }
 
 .aligned-text_right {
     display: block;
-    padding-top: 3px;
     text-align: right;
 }
 
